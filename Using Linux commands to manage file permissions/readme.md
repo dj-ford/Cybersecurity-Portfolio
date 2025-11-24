@@ -8,7 +8,7 @@ As a security professional supporting the research team, my role involves ensuri
 ## Check File and Directory Details
 To start, I used Linux commands to examine the existing permissions on the files and directories within the projects directory. The `ls -la` command provides a detailed listing of all files, including hidden files, and their current permission settings.
 
-![Using Linux commands to manage file permissions](directory_permissions.png)
+![Using Linux commands to manage file permissions](file_directory_details.png)
 
 The output indicated:
 
@@ -40,22 +40,25 @@ The 10-character string can be interpreted as follows:
 ## Change File Permissions
 The organization determined that “others” should not have write access to any files. Using the permissions output from `ls -la`, I identified `project_k.txt` as needing modification.
 
+![Using Linux commands to manage file permissions](file_permissions1.png)
+![Using Linux commands to manage file permissions](file_permissions2.png)
 
 This removed write permissions from others for project_k.txt.
+
 
 ---
 ## Change File Permissions on a Hidden File
 
 The hidden file .project_x.txt had been archived. The research team required that the user and group maintain read access, but no write access.
 
-chmod u-w .project_x.txt
-chmod g-w,g+r .project_x.txt
-ls -la
+![Using Linux commands to manage file permissions](hidden_files.png)
 
 ---
 ## Change Directory Permissions
 
 The drafts directory should only be accessible to researcher2. No other users should have execute permissions.
+![Using Linux commands to manage file permissions](directory_permissions.png)
+
 
 This removed execute permissions from the group while preserving access for researcher2.
 
