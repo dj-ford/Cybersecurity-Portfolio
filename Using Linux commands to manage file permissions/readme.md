@@ -61,7 +61,7 @@ This removed execute permissions from the group while preserving access for rese
 
 ---
 
-##Summary
+## Summary
 
 I reviewed and updated permissions for files and directories in the projects directory to reflect the correct authorization levels. Starting with ls -la, I identified existing permissions, then applied chmod commands to:
 
