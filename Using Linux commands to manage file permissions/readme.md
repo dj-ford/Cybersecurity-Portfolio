@@ -8,7 +8,7 @@ As a security professional supporting the research team, my role involves ensuri
 ## Check File and Directory Details
 To start, I used Linux commands to examine the existing permissions on the files and directories within the projects directory. The `ls -la` command provides a detailed listing of all files, including hidden files, and their current permission settings.
 
-
+![Using Linux commands to manage file permissions](directory_permissions.png)
 
 The output indicated:
 
