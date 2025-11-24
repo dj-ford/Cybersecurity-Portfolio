@@ -38,9 +38,7 @@ The 10-character string can be interpreted as follows:
 ---
 
 ## Change File Permissions
-The organization determined that “others” should not have write access to any files. Using the permissions output from `ls -la`, I identified `project_k.txt` as needing modification.
-
-![Using Linux commands to manage file permissions](file_permissions1.png)
+The organization determined that “others” should not have write access to any files. Using the permissions output from `ls -la`, I identified `project_k.txt` as needing modification, using chmod o-w project_k.txt.
 ![Using Linux commands to manage file permissions](file_permissions2.png)
 
 This removed write permissions from others for project_k.txt.
