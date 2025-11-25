@@ -22,9 +22,9 @@ The database server functions as the company’s primary data repository, housin
 
 | Threat Source | Threat Event | Likelihood (1–3) | Severity (1–3) | Risk Score |
 |--------------|--------------|------------------|----------------|------------|
-| Malicious Actor | Extract confidential data via unauthorized access | 3 | 3 | 9 |
-| Internal Employee | Interrupt essential business processes | 2 | 3 | 6 |
-| External Customer | Modify or delete important records | 2 | 3 | 6 |
+| Hacker | Obtain sensitive information via exfiltration | 3 | 3 | 9 |
+| Employee | Disrupt mission-critical operations | 2 | 3 | 6 |
+| Customer | Alter/Delete critical information | 2 | 3 | 6 |
 
 ---
 
