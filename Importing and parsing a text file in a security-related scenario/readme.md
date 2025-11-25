@@ -51,6 +51,7 @@ Within the loop, I added a conditional check to confirm that the element existed
 After cleaning the allow list, I needed to update the original file. I converted the list back into a properly formatted string using the `.join()` method, placing each IP address on its own line. Then I opened `"allow_list.txt"` again—this time in write mode—to overwrite the old contents with the updated list. This final step ensured that unauthorized IP addresses were fully removed from the system’s access control file.
 
 ![Importing and parsing a text file in a security-related scenario](image7.png)
+
 ![Importing and parsing a text file in a security-related scenario](image8.png)
 
 
