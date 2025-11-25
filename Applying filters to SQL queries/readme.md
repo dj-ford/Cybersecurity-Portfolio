@@ -63,7 +63,7 @@ A final update was required for employees outside of the Information Technology 
 
 ![Applying filters to SQL queries](ss6.png)
 
-By applying NOT IN, I returned every employee whose role falls outside the IT department, ensuring that non-IT systems received the proper updates.
+By applying NOT, I returned every employee whose role falls outside the IT department, ensuring that non-IT systems received the proper updates.
 
 
 ---
