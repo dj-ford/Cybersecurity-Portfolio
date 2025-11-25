@@ -4,19 +4,6 @@ This repository is a curated collection of my hands-on cybersecurity work, creat
 
 ---
 
-##  Purpose of This Portfolio
-
-The goal of this repository is to:
-
-- **Showcase practical cybersecurity skills** through documented work, screenshots, configurations, packet captures, and written analysis.
-- **Demonstrate my understanding of security fundamentals** — including threat analysis, risk management, networking basics, incident response, and security best practices.
-- **Provide employers and collaborators with transparent, reproducible evidence** of my progress and capabilities.
-
-
-Rather than simply listing certificates, this portfolio emphasizes **real artifacts, real analysis, and real hands-on experience**.
-
----
-
 # Table of Contents
 
 1. [Professional Statement](Professional%20Statement.md)
@@ -28,6 +15,19 @@ Rather than simply listing certificates, this portfolio emphasizes **real artifa
 7. [Documenting Incidents with an Incident Handler’s Journal](./Documenting%20incidents%20with%20an%20incident%20handler%E2%80%99s%20journal/)
 8. [Importing and Parsing a Text File in a Security-Related Scenario](./Importing%20and%20parsing%20a%20text%20file%20in%20a%20security-related%20scenario/)
 9. [Resume](./Resume/)
+
+---
+
+##  Purpose of This Portfolio
+
+The goal of this repository is to:
+
+- **Showcase practical cybersecurity skills** through documented work, screenshots, configurations, packet captures, and written analysis.
+- **Demonstrate my understanding of security fundamentals** — including threat analysis, risk management, networking basics, incident response, and security best practices.
+- **Provide employers and collaborators with transparent, reproducible evidence** of my progress and capabilities.
+
+
+Rather than simply listing certificates, this portfolio emphasizes **real artifacts, real analysis, and real hands-on experience**.
 
 ---
 
