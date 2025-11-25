@@ -17,10 +17,17 @@ Rather than simply listing certificates, this portfolio emphasizes **real artifa
 
 ---
 
+# Table of Contents
 
-Each item includes:
-- A write-up explaining **what I did**, **why it matters**, and **what I learned**  
-- Supporting evidence: screenshots, packet captures, exported configurations, diagrams  
+1. [Drafting a Professional Statement](Professional%20Statement.md)
+2. [Conducting a Security Audit](./Conducting%20a%20security%20audit/)
+3. [Analyzing Network Structure and Security](./Analyzing%20network%20structure%20and%20security/)
+4. [Using Linux Commands to Manage File Permissions](./Using%20Linux%20commands%20to%20manage%20file%20permissions/)
+5. [Applying Filters to SQL Queries](./Applying%20filters%20to%20SQL%20queries/)
+6. [Identifying Vulnerabilities for a Small Business](./Identifying%20vulnerabilities%20for%20a%20small%20business/)
+7. [Documenting Incidents with an Incident Handler’s Journal](./Documenting%20incidents%20with%20an%20incident%20handler%E2%80%99s%20journal/)
+8. [Importing and Parsing a Text File in a Security-Related Scenario](./Importing%20and%20parsing%20a%20text%20file%20in%20a%20security-related%20scenario/)
+9. [Resume](./Resume/)
 
 ---
 
