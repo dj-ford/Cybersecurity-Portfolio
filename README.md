@@ -19,7 +19,7 @@ Rather than simply listing certificates, this portfolio emphasizes **real artifa
 
 # Table of Contents
 
-1. [Drafting a Professional Statement](Professional%20Statement.md)
+1. [Professional Statement](Professional%20Statement.md)
 2. [Conducting a Security Audit](./Conducting%20a%20security%20audit/)
 3. [Analyzing Network Structure and Security](./Analyzing%20network%20structure%20and%20security/)
 4. [Using Linux Commands to Manage File Permissions](./Using%20Linux%20commands%20to%20manage%20file%20permissions/)
